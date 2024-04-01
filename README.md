@@ -23,6 +23,10 @@ SOFTWARE.
 -->
 <p align="center"><img src="./titanium/assets/icon.png"alt="titanium-logo"style="width:40%;height:5%px;object-fit:cover;object-position:center -10px""/></p><h1 align="center"></h1><p align="center"style="">A library for writing video game "utilities"</p><div align="center"><a><img src="https://img.shields.io/github/license/AtomicGamer9523/Titanium?label=License&color=blue"></a><br><a href="https://www.github.com/AtomicGamer9523"><img src="https://img.shields.io/github/followers/atomicgamer9523?label=AtomicGamer9523%20(Me)&style=social"/></a></div><br><h3><b>Obtaining</b>:</h3><samp>Mercurial: </samp><kbd>hg clone linkrbot.com/hg/titanium</kbd><br><samp>Git: </samp><kbd>git clone github.com/AtomicGamer9523/titanium</kbd>
 
+### **THIS IS CURRENTLY UNMAINTAINED**
+
+I will start working on this soon, have a few things to resolve beforehand though
+
 ### **Examples**:
 #### [Web Game](./examples/web/main.rs)
 #### [Desktop Game](./examples/desktop/main.rs)
